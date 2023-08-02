@@ -163,7 +163,7 @@
     margin-top: -40px;
   }
   .wrap-box .wrap-element-pic {
-    background-image: url(./@img/special-tours-section/Maldives.png);
+    background-image: url("./@img/special-tours-section/Maldives.png");
     background-position: 50% 50%;
     background-size: cover;
     height: 258px;
