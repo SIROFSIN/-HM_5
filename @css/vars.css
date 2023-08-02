@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: #f0f0f0;
+    line-height: normal;
+    font-family: MullerLight, sans-serif;
+  }
+  :root {
+    /* font sizes */
+    --font-size-base: 16px;
+    /* Colors */
+    --color-dimgray: #666;
+    --color-darkgoldenrod: #cc9933;
+  
+    /* Paddings */
+    --padding-smi: 13px;
+    --padding-xl: 20px;
+  
+    /* border radiuses */
+    --br-mini: 15px;
+    --br-3xs: 10px;
+
+    /* star vars */
+    --four_stars: url(/@img/deploy/four-stars-bgimg.svg);
+    --five_stars: url(/@img/deploy/five-stars-bgimg.svg);
+  }
+  
